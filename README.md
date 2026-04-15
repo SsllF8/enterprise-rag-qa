@@ -108,7 +108,7 @@
 
 ```bash
 # 1. 克隆项目
-git clone https://github.com/你的用户名/enterprise-rag-qa.git
+git clone https://github.com/SsllF8/enterprise-rag-qa.git
 cd enterprise-rag-qa
 
 # 2. 创建虚拟环境
