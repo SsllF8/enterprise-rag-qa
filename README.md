@@ -157,7 +157,7 @@ Windows 用户也可以直接双击 `启动应用.bat`。
 | 文档解析 | pypdf, python-docx, BeautifulSoup | 多格式文本提取 |
 | 文本分割 | LangChain TextSplitters | 基于分块的文档处理 |
 
-### 💡 面试要点 / Interview Talking Points
+### 💡 项目要点 / Interview Talking Points
 
 **1. 为什么选择 RAG 而不是直接用 ChatGPT？**
 - 企业数据敏感，不能直接发给第三方模型
